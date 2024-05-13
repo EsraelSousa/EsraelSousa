@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Sobre Mim
 - Nome: Esrae Sousa
-- Localização: Guaraciaba do Note - CE
+- Localização: Ceará - Brasil
 - Bio: Apaixonado por programação competitiva, matemática e jogos lógicos.
 
 ## Habilidades
